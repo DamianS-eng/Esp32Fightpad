@@ -1,4 +1,6 @@
 # Esp32 Fightpad
+![Original video from YouTube](https://youtu.be/PshScAi7n_o?si=6BkMoZymdoO4UZfl)
+
 Esp32-based wireless leverless controller
 
 This project is an ESP32 based wireless controller that incorperates a trackpad. 
